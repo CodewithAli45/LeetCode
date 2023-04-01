@@ -9,7 +9,7 @@ public class MiddleLinkedList {
        LinkedList<String> list = new LinkedList<>();
        list.add("Ali");
        list.add("murtaza");
-       list.add("jyoti");
+       list.add("Boby");
 
        System.out.println(list);
     }
