@@ -2,7 +2,7 @@ package GeneralQuestions.src;
 
 public class PascalTriangle {
     public static void main(String[] args) {
-        int numRows = 3;
+        int numRows = 5;
         int[][] pascalTriangle = new int[numRows][];
 
         for (int i = 0; i < numRows; i++) {
